@@ -24,7 +24,7 @@ function draw() {
   
 
 
-  text("Time: " + setTimeout(myFunction, 90000) , 550, 50)
+  text("Time: " + setTimeout(myFunction, 90001) , 550, 50)
 
   text("Your grandpa died a few week, but a ", 60, 60)
   text("few days ago his ghost appear in your ", 60, 80)
